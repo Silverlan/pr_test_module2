@@ -1,6 +1,6 @@
 {
-    "name": "Project Name",
-    "module_name": "pr_module",
+    "name": "Test",
+    "module_name": "pr_test",
     "install_directory": "modules/",
     "release_directory": ""
 }
